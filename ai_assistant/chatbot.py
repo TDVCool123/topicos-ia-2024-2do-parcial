@@ -3,7 +3,6 @@ from ai_assistant.agent import TravelAgent
 
 agent = TravelAgent().get_agent()
 
-
 def agent_response(message, history):
     return agent.chat(message).response
 

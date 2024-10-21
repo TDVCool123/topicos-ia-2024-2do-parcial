@@ -30,5 +30,45 @@
         "destination": "Dallas",
         "cost": 401,
         "reservation_type": "TripReservation"
+    },
+    {
+        "trip_type": "FLIGHT",
+        "date": "2023-08-29",
+        "departure": "Bolivia",
+        "destination": "Paris",
+        "cost": 676,
+        "reservation_type": "TripReservation"
+    },
+    {
+        "trip_type": "FLIGHT",
+        "date": "2023-10-15",
+        "departure": "La Paz",
+        "destination": "Santa Cruz",
+        "cost": 265,
+        "reservation_type": "TripReservation"
+    },
+    {
+        "trip_type": "FLIGHT",
+        "date": "2023-12-25",
+        "departure": "La Paz",
+        "destination": "Santa Cruz",
+        "cost": 457,
+        "reservation_type": "TripReservation"
+    },
+    {
+        "trip_type": "FLIGHT",
+        "date": "2024-10-22",
+        "departure": "Buenos Aires",
+        "destination": "Cochabamba",
+        "cost": 1500,
+        "reservation_type": "TripReservation"
+    },
+    {
+        "trip_type": "FLIGHT",
+        "date": "2024-10-25",
+        "departure": "Buenos Aires",
+        "destination": "Cochabamba",
+        "cost": 1500,
+        "reservation_type": "TripReservation"
     }
 ]
